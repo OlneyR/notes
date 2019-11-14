@@ -1,0 +1,28 @@
+getbootstrap.com
+bootstrap source and jquery and js  links must be included to function, as noted on site
+
+bootstrap is basically a prebuild of nice looking CSS spacing+scaling and categorization for styling
+
+class navbar navbar-default//class for entire nav header section
+      nav//class for all standard navigationf links
+      navbar-nav//subclass for left-aligned links
+      navbar-right//subsubclass for right-aligned links
+     
+class collapse navbar-collapse//collapses content away on width downscale
+
+button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#id of collapsed section" aria-expanded="false"
+//created hamborgor link when collapsed navbar
+      //plus a bunch of spans to make burger, what a mess
+      
+semantic-ui, better naming conventions vs bootstrap
+
+
+
+
+grid system
+up to 12 columnns
+.com/css/#grid
+.col-xs-
+.col-sm-
+.col-md-
+.col-lg-
